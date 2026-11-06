@@ -1,23 +1,35 @@
 
-# 👋 Hi, I'm Mohammad Abu Sayem
+<!-- ================= HEADER ================= -->
 
-### 💻 Web Designer | WordPress Developer | Web Developer
+<h1 align="center">👋 Hi, I'm Mohammad Abu Sayem</h1>
 
-Hi, I’m Mohammad Abu Sayem. I craft beautiful, high-performing websites and WordPress solutions that don't just look great but drive real results. With 3+ years of experience and a track record of 100+ completed projects across various industries, I know exactly what it takes to scale your brand online.
+<h3 align="center">
+  Professional Web Designer | WordPress Developer | Web Developer
+</h3>
 
-I believe in building long-term partnerships by consistently delivering quality work, meeting deadlines, and exceeding expectations. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=WordPress+Developer;Frontend+Web+Developer;Creative+Web+Designer;Building+Beautiful+Websites" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsayem&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Professional Web Designer & WordPress Developer
+Hi, I’m Mohammad Abu Sayem. I craft beautiful, high-performing websites and WordPress solutions that don't just look great but drive real results. With 3+ years of experience and a track record of 100+ completed projects across various industries, I know exactly what it takes to scale your brand online.
+
+I believe in building long-term partnerships by consistently delivering quality work, meeting deadlines, and exceeding expectations. 
+
+- 💻 Professional Web Designer & WordPress Developer
 - 🌱 3+ Years of Experience in Web Development
-- 🏆 100+ Successfully Completed Projects
-- 🌍 Experience working with international clients
-- 🎨 Passionate about UI/UX and modern website design
+- 🏆 Successfully Completed 100+ Projects
+- 🌍 Worked with clients from different countries
+- 🎨 Passionate about UI/UX and modern web design
 - 🤝 Focused on quality and client satisfaction
-- ⚡ Always learning new technologies
+- ⚡ Always learning and exploring new technologies
 
 ---
 
@@ -25,72 +37,109 @@ I believe in building long-term partnerships by consistently delivering quality 
 
 ### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
 ### CMS & Website Development
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 ### Design Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
 
 ---
 
 ## 💼 Services I Provide
 
-- Custom WordPress Website Development
-- Business & Corporate Website Design
-- WooCommerce & E-commerce Development
-- Landing Page Design
-- Elementor Website Customization
-- Responsive Web Design
-- Website Redesign & Optimization
-- Website Maintenance & Bug Fixing
+- 🌐 Custom WordPress Website Development
+- 🛒 WooCommerce & E-commerce Website Development
+- 🏢 Business & Corporate Website Design
+- 🎯 Landing Page Design
+- 🎨 Elementor Website Customization
+- 📱 Responsive Website Design
+- 🔧 Website Redesign & Optimization
+- 🛠️ Website Maintenance & Bug Fixing
 
 ---
 
 ## 📊 GitHub Statistics
 
-![Sayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsayem&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devsayem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsayem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsayem&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=devsayem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsayem&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🎯 Project Interests
+
+- 🛒 E-commerce & Online Stores
+- 🏢 Business & Corporate Websites
+- 🎓 Education & Learning Platforms
+- 🏥 Medical & Healthcare Websites
+- 🏗️ Construction & Architecture Websites
+- ✈️ Travel & Tourism Websites
+- 💪 Fitness & Gym Websites
+- 💰 Finance & Consulting Websites
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://github.com/devsayem">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/devsayem/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mdsayem25j@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/8801721560726">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/devsayem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/devsayem/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdsayem25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801721560726">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
-📧 **Email:** mdsayem25j@gmail.com
+📧 **Email:** mdsayem25@gmail.com
 
 💬 **WhatsApp:** +8801721560726
 
 🔗 **LinkedIn:** [devsayem](https://www.linkedin.com/in/devsayem/)
 
-🐙 **GitHub:** [devsayem](https://github.com/devsayem)
+🐙 **GitHub:** [github.com/devsayem](https://github.com/devsayem)
 
 ---
 
-### ⭐ Building Beautiful Websites. Creating Meaningful Experiences. Helping Businesses Grow.
+<h3 align="center">
+  ⭐ Building Beautiful Websites. Creating Meaningful Experiences. Helping Businesses Grow.
+</h3>
 
-Thanks for visiting my profile! 😊
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
