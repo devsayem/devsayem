@@ -3,9 +3,9 @@
 
 ### 💻 Web Designer | WordPress Developer | Web Developer
 
-I'm a passionate Web Designer and WordPress Developer with **3+ years of experience** creating modern, responsive, and high-performing websites.
+Hi, I’m Mohammad Abu Sayem. I craft beautiful, high-performing websites and WordPress solutions that don't just look great but drive real results. With 3+ years of experience and a track record of 100+ completed projects across various industries, I know exactly what it takes to scale your brand online.
 
-With **100+ successfully completed projects** across various industries, I help businesses build a strong online presence through creative design and effective web solutions.
+I believe in building long-term partnerships by consistently delivering quality work, meeting deadlines, and exceeding expectations. 
 
 ---
 
