@@ -23,7 +23,7 @@ Hi, I’m Mohammad Abu Sayem. I craft beautiful, high-performing websites and Wo
 
 I believe in building long-term partnerships by consistently delivering quality work, meeting deadlines, and exceeding expectations. 
 
-- 💻 Professional Web Designer & WordPress Developer
+- 💻 Professional Web Designer, Web Developer & WordPress Developer
 - 🌱 3+ Years of Experience in Web Development
 - 🏆 Successfully Completed 100+ Projects
 - 🌍 Worked with clients from different countries
