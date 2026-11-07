@@ -101,7 +101,7 @@ Explore my repositories to see my work.
 
 - **GitHub:** https://github.com/devsayem
 - **Email:** mdsayem25@gmail.com
-- **LinkedIn:** Add your LinkedIn profile URL
+- **LinkedIn:** https://www.linkedin.com/in/devsayem/
 - **WhatsApp:** https://wa.me/8801721560726
 
 ---
