@@ -1,7 +1,7 @@
 
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">👋 Hi, I'm Mohammad Abu Sayem</h1>
+<img src="https://i.ibb.co.com/hRRtfbhF/Sayem-github.png" alt="Web Designer WordPress Developer Portfolio" border="0">
 
 <h3 align="center">
   Professional Web Designer | WordPress Developer | Web Developer
